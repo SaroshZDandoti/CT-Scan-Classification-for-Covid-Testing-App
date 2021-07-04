@@ -9,7 +9,7 @@ pandas==1.1.5
 Pillow==7.0.0
 scikit-image==0.16.2
 scikit-learn==0.22.1
-streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1620159617620/work
+streamlit==0.81.1
 tensorflow==2.3.0
 tensorflow-estimator==2.3.0
 tf-estimator-nightly==1.14.0.dev2019030115
