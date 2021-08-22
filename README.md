@@ -1,5 +1,6 @@
 # CT-Scan-Classification-for-Covid-Testing-App
 This app is made using streamlit. You can upload your Chest CT scan and the web app will give you the probability of presence of Covid in your CT Scan.
+This project was done by Saniya Inamdar and Sarosh Dandoti
 
 ## Install all the requirements given in the requirements.txt
 
